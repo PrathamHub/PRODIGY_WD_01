@@ -1,2 +1,2 @@
 # PRODIGY_WD_01
-First task PRODIGY INFOTECH
+Made a Responsive landing page of Underwater Adventure using HTML ,CSS AND jQery
